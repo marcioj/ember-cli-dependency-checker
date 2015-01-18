@@ -42,7 +42,6 @@
     "mocha-jshint": "0.0.9"
   },
   "keywords": [
-    "ember-addon",
     "ember-cli",
     "ember",
     "node",
@@ -51,9 +50,6 @@
     "dependency",
     "check"
   ],
-  "ember-addon": {
-    "configPath": "tests/dummy/config"
-  },
   "dependencies": {
     "chalk": "^0.5.1",
     "semver": "^4.1.0"
